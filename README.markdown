@@ -43,3 +43,5 @@ Application:
 
     plugin->UnLoad();
 
+
+Try example with: `./build.sh && ./main`
